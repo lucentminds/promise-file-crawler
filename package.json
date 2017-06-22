@@ -1,0 +1,20 @@
+{
+  "name": "promise-file-crawler",
+  "version": "1.0.0",
+  "description": "Promise-based file system crawler.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucentminds/promise-file-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucentminds/promise-file-crawler/issues"
+  },
+  "homepage": "https://github.com/lucentminds/promise-file-crawler#readme"
+}
